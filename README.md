@@ -1,6 +1,6 @@
 # DOS Palette Changer (PAL.EXE)
 
-DOS Palette Changer is an MS-DOS utility designed to replace the default 16-color VGA palette with modern, retro, and custom color schemes. Inspired by modern terminal aesthetics, for real DOS hardware.
+DOS Palette Changer is an MS-DOS utility designed to replace the default 16-color VGA palette with modern, retro, and custom color schemes. Inspired by modern terminal aesthetics, for real DOS hardware.Yes, I know that the whole program is made with the help of AI. Because I'm not good at coding at this level, I only know how to design the user interface, and I love a DOS and retro-futuristic aesthetic.
 
 ## Features
 
